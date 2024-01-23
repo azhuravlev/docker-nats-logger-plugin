@@ -1,4 +1,4 @@
-package docker_nats_logger_plugin
+package main
 
 import (
   "bytes"
